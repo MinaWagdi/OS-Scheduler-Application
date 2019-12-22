@@ -31,3 +31,5 @@ Finally , if you wish to try another scheduling algorithm or restart your work ,
 
 Note: The values entered in the priority textField are not taken into consideration unless selection one of the two priority scheduling algorithms.
 Also , the quantuam value you enter in the quantum textField is taken into consideration only with the Round Robin Scheduling algorithm.
+
+**YOU WILL FIND SOME SCREENSHOTS IN THE USER MANUAL FILE**
