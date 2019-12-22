@@ -24,7 +24,8 @@ Immediately , the process details entered by the user will appear in the text ar
 6. Choose a scheduling algorithm to schedule the processes you have just entered
 7. Click “ Run”
 
-In the text Area , you will find the scheduling done by the program for the processes . For each you will find : the process Name , the starting Time , the Pre-empted Time as well as the waiting time it has waited until executed another time.
+In the text Area , you will find the scheduling done by the program for the processes. 
+For each you will find : the process Name , the starting Time , the Pre-empted Time as well as the waiting time it has waited until executed another time.
 Finally , if you wish to try another scheduling algorithm or restart your work , all you have to do is to click on the “Reset” Button and re-begin your work.
 
 
